@@ -83,8 +83,6 @@ body {
     font-size: 40px;
     font-weight: 700;
     line-height: 48px;
-    letter-spacing: 0em;
-    text-align: left;
 
 }
 
@@ -234,7 +232,8 @@ body {
     text-align: center;
 
 }
-.footer__links{
+
+.footer__links {
     display: flex;
     justify-content: space-around;
     align-items: center;
